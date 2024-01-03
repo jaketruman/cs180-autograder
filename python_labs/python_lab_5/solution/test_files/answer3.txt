@@ -1,0 +1,2 @@
+mean = 5.5
+variance = 8.25
